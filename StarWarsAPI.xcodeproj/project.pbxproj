@@ -7,22 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E955D62826F9041000F7AD74 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D62726F9041000F7AD74 /* People.swift */; };
+		E955D62A26F90A9800F7AD74 /* Planets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D62926F90A9800F7AD74 /* Planets.swift */; };
+		E955D62C26F90AA300F7AD74 /* Films.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D62B26F90AA300F7AD74 /* Films.swift */; };
+		E955D62E26F90AB800F7AD74 /* Species.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D62D26F90AB800F7AD74 /* Species.swift */; };
+		E955D63026F90AC900F7AD74 /* Vehicles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D62F26F90AC900F7AD74 /* Vehicles.swift */; };
+		E955D63226F90AD600F7AD74 /* Starships.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D63126F90AD600F7AD74 /* Starships.swift */; };
+		E955D63426F91F0400F7AD74 /* NetworkingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E955D63326F91F0400F7AD74 /* NetworkingManager.swift */; };
+		E990169126F525B8009A9FB7 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169026F525B8009A9FB7 /* HomeVC.swift */; };
+		E990169326F52652009A9FB7 /* TitleStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169226F52652009A9FB7 /* TitleStack.swift */; };
+		E990169526F52676009A9FB7 /* SearchButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169426F52676009A9FB7 /* SearchButton.swift */; };
+		E990169B26F5271C009A9FB7 /* TitleSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169A26F5271C009A9FB7 /* TitleSection.swift */; };
+		E990169D26F52756009A9FB7 /* CategorySection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169C26F52756009A9FB7 /* CategorySection.swift */; };
+		E990169F26F5277D009A9FB7 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = E990169E26F5277D009A9FB7 /* Section.swift */; };
+		E99016A126F527C2009A9FB7 /* TitleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016A026F527C2009A9FB7 /* TitleCell.swift */; };
+		E99016A626F5280C009A9FB7 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016A526F5280C009A9FB7 /* Data.swift */; };
+		E99016AC26F5505E009A9FB7 /* CategoryListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016AB26F5505E009A9FB7 /* CategoryListVC.swift */; };
+		E99016AE26F55093009A9FB7 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016AD26F55093009A9FB7 /* DetailsVC.swift */; };
+		E99016B026F5526A009A9FB7 /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016AF26F5526A009A9FB7 /* CategoryTableViewCell.swift */; };
+		E99016B326F8152A009A9FB7 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99016B226F8152A009A9FB7 /* CategoryCell.swift */; };
 		E9DC085B26F2AE4B002E26F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DC085A26F2AE4B002E26F0 /* AppDelegate.swift */; };
 		E9DC085D26F2AE4B002E26F0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DC085C26F2AE4B002E26F0 /* SceneDelegate.swift */; };
-		E9DC085F26F2AE4B002E26F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DC085E26F2AE4B002E26F0 /* ViewController.swift */; };
-		E9DC086226F2AE4B002E26F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9DC086026F2AE4B002E26F0 /* Main.storyboard */; };
 		E9DC086426F2AE4E002E26F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9DC086326F2AE4E002E26F0 /* Assets.xcassets */; };
-		E9DC086726F2AE4E002E26F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9DC086526F2AE4E002E26F0 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E955D62726F9041000F7AD74 /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
+		E955D62926F90A9800F7AD74 /* Planets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planets.swift; sourceTree = "<group>"; };
+		E955D62B26F90AA300F7AD74 /* Films.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Films.swift; sourceTree = "<group>"; };
+		E955D62D26F90AB800F7AD74 /* Species.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Species.swift; sourceTree = "<group>"; };
+		E955D62F26F90AC900F7AD74 /* Vehicles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicles.swift; sourceTree = "<group>"; };
+		E955D63126F90AD600F7AD74 /* Starships.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Starships.swift; sourceTree = "<group>"; };
+		E955D63326F91F0400F7AD74 /* NetworkingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManager.swift; sourceTree = "<group>"; };
+		E990169026F525B8009A9FB7 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		E990169226F52652009A9FB7 /* TitleStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleStack.swift; sourceTree = "<group>"; };
+		E990169426F52676009A9FB7 /* SearchButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchButton.swift; sourceTree = "<group>"; };
+		E990169A26F5271C009A9FB7 /* TitleSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleSection.swift; sourceTree = "<group>"; };
+		E990169C26F52756009A9FB7 /* CategorySection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorySection.swift; sourceTree = "<group>"; };
+		E990169E26F5277D009A9FB7 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
+		E99016A026F527C2009A9FB7 /* TitleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCell.swift; sourceTree = "<group>"; };
+		E99016A526F5280C009A9FB7 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		E99016AB26F5505E009A9FB7 /* CategoryListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryListVC.swift; sourceTree = "<group>"; };
+		E99016AD26F55093009A9FB7 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		E99016AF26F5526A009A9FB7 /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
+		E99016B226F8152A009A9FB7 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		E9DC085726F2AE4B002E26F0 /* StarWarsAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarWarsAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9DC085A26F2AE4B002E26F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9DC085C26F2AE4B002E26F0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E9DC085E26F2AE4B002E26F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E9DC086126F2AE4B002E26F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E9DC086326F2AE4E002E26F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E9DC086626F2AE4E002E26F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9DC086826F2AE4E002E26F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -37,6 +69,118 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E990168D26F52582009A9FB7 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				E990168F26F52594009A9FB7 /* Controller */,
+				E990168E26F5258C009A9FB7 /* View */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		E990168E26F5258C009A9FB7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E990169226F52652009A9FB7 /* TitleStack.swift */,
+				E990169426F52676009A9FB7 /* SearchButton.swift */,
+				E990169626F5267D009A9FB7 /* CollectionView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E990168F26F52594009A9FB7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E990169026F525B8009A9FB7 /* HomeVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E990169626F5267D009A9FB7 /* CollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				E990169926F52696009A9FB7 /* Cells */,
+				E990169726F52689009A9FB7 /* Sections */,
+				E990169826F52690009A9FB7 /* Protocol */,
+			);
+			path = CollectionView;
+			sourceTree = "<group>";
+		};
+		E990169726F52689009A9FB7 /* Sections */ = {
+			isa = PBXGroup;
+			children = (
+				E990169A26F5271C009A9FB7 /* TitleSection.swift */,
+				E990169C26F52756009A9FB7 /* CategorySection.swift */,
+			);
+			path = Sections;
+			sourceTree = "<group>";
+		};
+		E990169826F52690009A9FB7 /* Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				E990169E26F5277D009A9FB7 /* Section.swift */,
+			);
+			path = Protocol;
+			sourceTree = "<group>";
+		};
+		E990169926F52696009A9FB7 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				E99016A026F527C2009A9FB7 /* TitleCell.swift */,
+				E99016B226F8152A009A9FB7 /* CategoryCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		E99016A426F527FC009A9FB7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E99016A526F5280C009A9FB7 /* Data.swift */,
+				E955D63326F91F0400F7AD74 /* NetworkingManager.swift */,
+				E955D62726F9041000F7AD74 /* People.swift */,
+				E955D62926F90A9800F7AD74 /* Planets.swift */,
+				E955D62B26F90AA300F7AD74 /* Films.swift */,
+				E955D62D26F90AB800F7AD74 /* Species.swift */,
+				E955D62F26F90AC900F7AD74 /* Vehicles.swift */,
+				E955D63126F90AD600F7AD74 /* Starships.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E99016A726F5288F009A9FB7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E9DC086326F2AE4E002E26F0 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E99016A826F5500E009A9FB7 /* CategoryList */ = {
+			isa = PBXGroup;
+			children = (
+				E99016A926F55022009A9FB7 /* Controller */,
+				E99016AA26F55032009A9FB7 /* View */,
+			);
+			path = CategoryList;
+			sourceTree = "<group>";
+		};
+		E99016A926F55022009A9FB7 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E99016AB26F5505E009A9FB7 /* CategoryListVC.swift */,
+				E99016AD26F55093009A9FB7 /* DetailsVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E99016AA26F55032009A9FB7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E99016AF26F5526A009A9FB7 /* CategoryTableViewCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		E9DC084E26F2AE4B002E26F0 = {
 			isa = PBXGroup;
 			children = (
@@ -58,11 +202,11 @@
 			children = (
 				E9DC085A26F2AE4B002E26F0 /* AppDelegate.swift */,
 				E9DC085C26F2AE4B002E26F0 /* SceneDelegate.swift */,
-				E9DC085E26F2AE4B002E26F0 /* ViewController.swift */,
-				E9DC086026F2AE4B002E26F0 /* Main.storyboard */,
-				E9DC086326F2AE4E002E26F0 /* Assets.xcassets */,
-				E9DC086526F2AE4E002E26F0 /* LaunchScreen.storyboard */,
 				E9DC086826F2AE4E002E26F0 /* Info.plist */,
+				E990168D26F52582009A9FB7 /* Home */,
+				E99016A826F5500E009A9FB7 /* CategoryList */,
+				E99016A426F527FC009A9FB7 /* Model */,
+				E99016A726F5288F009A9FB7 /* Resources */,
 			);
 			path = StarWarsAPI;
 			sourceTree = "<group>";
@@ -124,9 +268,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9DC086726F2AE4E002E26F0 /* LaunchScreen.storyboard in Resources */,
 				E9DC086426F2AE4E002E26F0 /* Assets.xcassets in Resources */,
-				E9DC086226F2AE4B002E26F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,32 +279,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9DC085F26F2AE4B002E26F0 /* ViewController.swift in Sources */,
+				E955D63026F90AC900F7AD74 /* Vehicles.swift in Sources */,
+				E955D62826F9041000F7AD74 /* People.swift in Sources */,
+				E990169B26F5271C009A9FB7 /* TitleSection.swift in Sources */,
+				E990169526F52676009A9FB7 /* SearchButton.swift in Sources */,
+				E99016B326F8152A009A9FB7 /* CategoryCell.swift in Sources */,
+				E990169126F525B8009A9FB7 /* HomeVC.swift in Sources */,
+				E955D63426F91F0400F7AD74 /* NetworkingManager.swift in Sources */,
+				E99016A126F527C2009A9FB7 /* TitleCell.swift in Sources */,
+				E955D63226F90AD600F7AD74 /* Starships.swift in Sources */,
+				E99016A626F5280C009A9FB7 /* Data.swift in Sources */,
+				E99016AC26F5505E009A9FB7 /* CategoryListVC.swift in Sources */,
 				E9DC085B26F2AE4B002E26F0 /* AppDelegate.swift in Sources */,
 				E9DC085D26F2AE4B002E26F0 /* SceneDelegate.swift in Sources */,
+				E990169F26F5277D009A9FB7 /* Section.swift in Sources */,
+				E990169D26F52756009A9FB7 /* CategorySection.swift in Sources */,
+				E990169326F52652009A9FB7 /* TitleStack.swift in Sources */,
+				E955D62C26F90AA300F7AD74 /* Films.swift in Sources */,
+				E99016AE26F55093009A9FB7 /* DetailsVC.swift in Sources */,
+				E99016B026F5526A009A9FB7 /* CategoryTableViewCell.swift in Sources */,
+				E955D62E26F90AB800F7AD74 /* Species.swift in Sources */,
+				E955D62A26F90A9800F7AD74 /* Planets.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		E9DC086026F2AE4B002E26F0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E9DC086126F2AE4B002E26F0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		E9DC086526F2AE4E002E26F0 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E9DC086626F2AE4E002E26F0 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		E9DC086926F2AE4E002E26F0 /* Debug */ = {
